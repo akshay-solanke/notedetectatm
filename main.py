@@ -21,3 +21,4 @@ else:
         print("200 Notes:", int(div(Number, 200)))
         Number = Number - (int(div(Number, 200)) * 200)
         print("100 Notes:", int(div(Number, 100)))
+
